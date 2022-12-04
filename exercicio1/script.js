@@ -1,5 +1,5 @@
-const num = //seu numero aqui
+const num = 6
 
-if(){
-    console.log("sua mensagem aqui");
+if(  num % 2 === 0){
+    console.log("o numero é par");
 }
